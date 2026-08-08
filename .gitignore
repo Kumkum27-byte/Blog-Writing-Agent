@@ -1,0 +1,37 @@
+# Python virtual environments
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables and secrets
+.env
+
+# VS Code settings
+.vscode/
+
+# Streamlit runtime files
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.sqlite3
+*.sqlite
+
+# Build artifacts
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Notebook outputs
+*.ipynb_checkpoints
